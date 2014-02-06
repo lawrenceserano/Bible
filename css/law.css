@@ -1,0 +1,91 @@
+body#back{
+	background-color: #9999FF;
+}
+div#back1{
+	background-color: white;
+	margin-left: 50px;
+	margin-top: 50px;
+	width: 1140px;
+	height: 615px;
+}
+div#nav1{
+	width: 350px;
+	height: 50px;
+	margin-left: 350px;
+	background-color: rgba(25,25,25,.58);
+	color: white;
+}
+div#nav2{
+	width: 1053px;
+	background-color: transparent;
+	height: 470px;
+}
+div#body1{
+	width: 600px;
+	height: 435px;
+	background-color: transparent;
+}
+select#books{
+	width: 110px;
+	
+}
+select#chapters{
+	width: 65px;
+}
+select#verses{
+	width: 65px;
+}
+div#body2{
+	width: 310px;
+	background-color: transparent;
+	height: 435px;
+}
+div#navigation1{
+	background-color: rgba(25,25,25,.58);
+	color: white;
+	width: 525px;
+}
+textarea#verse_text{
+	width: 562px;
+	height: 330px;
+	margin-left: 20px;
+	padding: 60px;
+	font-family: serif;
+	font-size: 2em;
+	line-height: 30px;
+	background-color: rgba(25,25,25,.58);
+	resize:none;
+	color: white;
+	cursor: auto;
+
+}
+div#nav11{
+	width: 270px;
+	margin-left: 1px;
+	background-color: rgba(25,25,25,.58);
+	color: white;
+	height: 100px;
+}
+div#nav12{
+	width: 270px;
+	margin-left: 1px;
+	height: 247px;
+	background-color: rgba(25,25,25,.58);
+}
+textarea#searchout
+	{
+	width: 270px;
+	margin-left: 1px;
+	height: 247px;
+	background-color: rgba(25,25,25,.58);
+	color: white;
+	resize:none;
+}
+input#search{
+	height: 50px;
+	width: 270px;
+	border-bottom-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+}
